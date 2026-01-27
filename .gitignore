@@ -48,3 +48,7 @@ playwright-report/
 
 # E2E asset cache (regenerated each run)
 e2e/cache/*.har
+# playwright cache and results
+/test-results/
+/playwright-report/
+/playwright/.cache/
